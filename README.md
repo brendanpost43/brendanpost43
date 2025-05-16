@@ -11,7 +11,7 @@
 
 - 💻 Languages: Python, C#
 - 🌐 Web: HTML, CSS
-- 🛠️ Tools: Git, VS Code
+- 🛠️ Tools: Git, VS Code, Tableau, CyberChef, MITRE ATT&CK Navigator.
 
 ---
 
